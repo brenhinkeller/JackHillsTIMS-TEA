@@ -2,6 +2,6 @@
 *.~lock*
 
 CL\ images/not\ TIMS\'d
-data/PrincetonMasterList.xlsx
+data/*.xlsx
 old
 raw\ TEA\ files
