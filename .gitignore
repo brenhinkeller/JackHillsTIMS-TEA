@@ -2,6 +2,7 @@
 *.~lock*
 
 CL\ images/not\ TIMS\'d
+CL\ images/RSES_CL.pdf
 data/*.xlsx
 old
 raw\ TEA\ files
